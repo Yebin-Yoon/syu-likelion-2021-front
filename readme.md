@@ -8,9 +8,9 @@
 
 - 세션에 대한 일정 정보는 [구글 캘린더](https://calendar.google.com/calendar/u/0?cid=Y19jN2tuZThnNHFkaWoyZ3MyZWE0MWZpamZlb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)로 공유됩니다.
 - [구글 밋](http://meet.google.com/kgw-ytzi-rrs)에서 **매주 금요일 18시**에 정기적으로 진행합니다.
-- 본 세션은 `JavaScript`에 대해서 기초적으로 알고 있는 사람들에게 적합합니다.
+- 본 세션은 `JavaScript`초심자 전용이나, 다른 언어를 적어도 하나 사용해본 경험이 있는 분들에게 적합합니다.
 
-### 개발 트렌드와 ECMAScript 
+### 개발 트렌드와 ECMAScript
 
 - 2021 프론트엔드 트렌드를 알아봅니다.
 - ECMAScript 소개와 기존 자바 스크립트 내용과 다른 점을 알아봅니다.
@@ -40,7 +40,3 @@
 6. 푸시한 후, `Contribute`를 클릭 후, `Open Pull Request`를 클릭해, 새로운 풀리퀘스트를 생성합니다.
    ![예제](https://user-images.githubusercontent.com/15305733/130645298-b618df07-555b-4aad-9076-2aa898663c63.png)
 7. 제가 직접 코드를 확인한 후에 적절한 코멘트 후, 본 저장소 `participants`아래에 해당 내용이 머지됩니다.
-
-
-
-
