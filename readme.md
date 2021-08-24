@@ -1,6 +1,6 @@
 # 멋쟁이 사자처럼 SYU 2021
 
-[멋쟁이 사자처럼 9기](https://github.com/SYULION9TH)의 프론트엔드 강의 세션입니다. 여기서 다루는 내용은 다음과 같습니다.
+[멋쟁이 사자처럼 9기](https://github.com/SYULION9TH)의 프론트엔드 강의에 필요한 실습 및 예제를 저장해둡니다.
 
 - [상세 일정표](https://ambiguous-lemongrass-fb3.notion.site/9-2-dc507870f0604b4093bde7144a2eef0b)
 
