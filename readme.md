@@ -1,6 +1,7 @@
 # 멋쟁이 사자처럼 SYU 2021 🦁
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOOGOMJA%2Fsyu-likelion-2021&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub forks](https://img.shields.io/github/forks/YOOGOMJA/syu-likelion-2021)](https://github.com/YOOGOMJA/syu-likelion-2021/network)
 
 [멋쟁이 사자처럼 9기](https://github.com/SYULION9TH)의 프론트엔드 강의에 필요한 실습 및 예제를 저장해둡니다.
 
