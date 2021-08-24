@@ -1,13 +1,13 @@
 # 멋쟁이 사자처럼 SYU 2021 🦁
 
-[멋쟁이 사자처럼 9기](https://github.com/SYULION9TH)의 프론트엔드 강의에 필요한 실습 및 예제를 저장해둡니다.
+![멋쟁이 사자처럼 9기](https://github.com/SYULION9TH)의 프론트엔드 강의에 필요한 실습 및 예제를 저장해둡니다.
 
-- [상세 일정표](https://ambiguous-lemongrass-fb3.notion.site/9-2-dc507870f0604b4093bde7144a2eef0b)
+- ![상세 일정표](https://ambiguous-lemongrass-fb3.notion.site/9-2-dc507870f0604b4093bde7144a2eef0b)
 
 ## 진행 🚨
 
-- 세션에 대한 일정 정보는 [구글 캘린더](https://calendar.google.com/calendar/u/0?cid=Y19jN2tuZThnNHFkaWoyZ3MyZWE0MWZpamZlb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)로 공유됩니다.
-- [구글 밋](http://meet.google.com/kgw-ytzi-rrs)에서 **매주 금요일 18시**에 정기적으로 진행합니다.
+- 세션에 대한 일정 정보는 ![구글 캘린더](https://calendar.google.com/calendar/u/0?cid=Y19jN2tuZThnNHFkaWoyZ3MyZWE0MWZpamZlb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)로 공유됩니다.
+- ![구글 밋](http://meet.google.com/kgw-ytzi-rrs)에서 **매주 금요일 18시**에 정기적으로 진행합니다.
 - 본 세션은 `JavaScript`초심자 전용이나, 다른 언어를 적어도 하나 사용해본 경험이 있는 분들에게 적합합니다.
 
 ### 개발 트렌드와 ECMAScript
@@ -23,8 +23,8 @@
 
 ## 실습 목록 🎁
 
-- [1주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week1)
-- [2주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week2)(작업중 🛠)
+- ![1주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week1)
+- ![2주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week2)(작업중 🛠)
 
 ## 실습 참여하기 🔥
 
