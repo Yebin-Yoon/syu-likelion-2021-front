@@ -1,28 +1,32 @@
-# 멋쟁이 사자처럼 SYU 2021
+# 멋쟁이 사자처럼 SYU 2021 🦁
 
 [멋쟁이 사자처럼 9기](https://github.com/SYULION9TH)의 프론트엔드 강의에 필요한 실습 및 예제를 저장해둡니다.
 
 - [상세 일정표](https://ambiguous-lemongrass-fb3.notion.site/9-2-dc507870f0604b4093bde7144a2eef0b)
 
-## 진행
+## 진행 🚨
 
 - 세션에 대한 일정 정보는 [구글 캘린더](https://calendar.google.com/calendar/u/0?cid=Y19jN2tuZThnNHFkaWoyZ3MyZWE0MWZpamZlb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)로 공유됩니다.
 - [구글 밋](http://meet.google.com/kgw-ytzi-rrs)에서 **매주 금요일 18시**에 정기적으로 진행합니다.
 - 본 세션은 `JavaScript`에 대해서 기초적으로 알고 있는 사람들에게 적합합니다.
 
-## 개발 트렌드와 ECMAScript
+### 개발 트렌드와 ECMAScript 
 
 - 2021 프론트엔드 트렌드를 알아봅니다.
 - ECMAScript 소개와 기존 자바 스크립트 내용과 다른 점을 알아봅니다.
 
-## ReactJS
-
+### ReactJS
 
 - ReactJS에 대해서 알아봅니다.
 - ReactJS와 기존 프론트엔드 개발의 차이점을 알아봅니다.
 - ReactJS로 간단한 화면을 만들어 봅니다.
 
-## 실습 참여하기
+## 실습 목록 🎁
+
+- [1주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week1)
+- [2주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week2)(작업중 🛠)
+
+## 실습 참여하기 🔥
 
 - 실습이 진행되는 주차에는, 실습 자료가 `practice`라는 이름의 폴더에 생성될 예정입니다.
 - 실습은 최대한 깃허브의 코드 기여를 경험해볼 수 있는 방향으로 진행 될 예정입니다.
