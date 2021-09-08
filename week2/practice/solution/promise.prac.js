@@ -5,14 +5,19 @@ var __LAST_UPDATED_DATE_ELEMENT_ID = "lastUpdatedDate";
 // 요청 여부
 var __API_REQUESTED = false;
 
-// 데이터를 화면에 그려줄 함수
+/**
+ * @description 화면에 데이터를 그려주는 함수입니다.
+ * @param {*} data api에서 돌려받은 데이터 입니다
+ */
 function render(data) {
   var createdListItem = document.createElement("li");
   createdListItem.innerText = "[" + data.id + "] " + data.title;
   __LIST_ELEMENT.appendChild(createdListItem);
 }
 
-// 데이터 가져오기 함수
+/**
+ * @description 데이터를 가져오는 함수입니다.
+ */
 function fetchData() {
   if (__API_REQUESTED) {
     alert("이미 요청중입니다.");
