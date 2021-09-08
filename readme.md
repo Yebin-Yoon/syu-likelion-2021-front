@@ -26,8 +26,11 @@
 
 ## 실습 목록 🎁
 
-- [1주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week1)
-- [2주차](https://github.com/YOOGOMJA/syu-likelion-2021/tree/master/week2)(작업중 🛠)
+- [1주차](https://github.com/YOOGOMJA/syu-likelion-2021-front/tree/master/week1)
+- [2주차](https://github.com/YOOGOMJA/syu-likelion-2021-front/tree/master/week2)
+- [3주차](https://github.com/YOOGOMJA/syu-likelion-2021-front/tree/master/week3)(작업중 🛠)
+- [4주차](https://github.com/YOOGOMJA/syu-likelion-2021-front/tree/master/week4)(작업중 🛠)
+- [5주차](https://github.com/YOOGOMJA/syu-likelion-2021-front/tree/master/week5)(작업중 🛠)
 
 ## 실습 참여하기 🔥
 
