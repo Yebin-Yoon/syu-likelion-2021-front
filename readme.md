@@ -57,4 +57,5 @@
 - [성예지](mailto:098dpwl@gmail.com)
 - [최정은](mailto:renee8369@naver.com)
 - [김지연](jy_0327@gmail.com)
+- [윤예빈](yoonye128@gmail.com)
 
