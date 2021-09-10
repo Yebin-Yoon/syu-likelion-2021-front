@@ -52,3 +52,4 @@
 ### 참여자 
 
 - [유경수](mailto:dev.yoogomja@gmail.com)
+- [성예지](mailto:098dpwl@gmail.com
