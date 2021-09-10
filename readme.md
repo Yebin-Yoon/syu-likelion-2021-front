@@ -53,3 +53,5 @@
 
 - [유경수](mailto:dev.yoogomja@gmail.com)
 - [이지수](email: jisu6414@likelion.org)
+- [황한슬](rogitun@gmail.com)
+
