@@ -52,3 +52,4 @@
 ### 참여자 
 
 - [유경수](mailto:dev.yoogomja@gmail.com)
+- [이지수](email: jisu6414@likelion.org)
