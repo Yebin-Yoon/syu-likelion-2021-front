@@ -56,4 +56,4 @@
 - [황한슬](rogitun@gmail.com)
 - [성예지](mailto:098dpwl@gmail.com)
 - [최정은](mailto:renee8369@naver.com)
-
+- [김지연](jy_0327@gmail.com)
