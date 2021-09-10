@@ -48,3 +48,7 @@
 6. 푸시한 후, `Contribute`를 클릭 후, `Open Pull Request`를 클릭해, 새로운 풀리퀘스트를 생성합니다.
    ![예제](https://user-images.githubusercontent.com/15305733/130645298-b618df07-555b-4aad-9076-2aa898663c63.png)
 7. 제가 직접 코드를 확인한 후에 적절한 코멘트 후, 본 저장소 `participants`아래에 해당 내용이 머지됩니다.
+
+### 참여자 
+
+- [유경수](mailto:dev.yoogomja@gmail.com)
